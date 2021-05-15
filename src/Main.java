@@ -7,5 +7,7 @@ public class Main {
         System.out.println("hot_fix by new branch");
         System.out.println("update by new branch");
         System.out.println("hot_fix2 by new branch");
+        System.out.println("update by master");
+        System.out.println("update by master ！！！");
     }
 }
